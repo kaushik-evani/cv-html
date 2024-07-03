@@ -1,0 +1,68 @@
+Personal Info:
+Name: Kaushik Evani
+Place: Bengaluru, India
+Phone: +91 9008485595
+===
+Summary
+---
+Highly experienced Senior Software Engineer with 9 years of experience in the IT industry. 
+Proven expertise in developing and maintaining software solutions using Python, Java, JavaScript, and various other technologies.
+Experience in frontend and backend development and working with large scale customer facing applications.
+Strong background in system design, problem-solving, research skills, documentation, and effective communication.
+===
+Skills
+---
+Tech: Python, Java, JavaScript, Elixir, HTML/CSS, Elasticsearch, Logstash, Kibana, MySQL, MongoDB, Redis, ScyllaDB, Spring Boot, Node.js, React, Kafka, Kafka Connect, Docker, Kubernetes, AWS, Serverless, Terraform, Git, Linux, Jira
+Others: Problem-solving, System design, Debugging, Communication, Documentation, Tech expertise, Code Quality, Research
+===
+Work Experience
+---
+Senior Software Engineer at Little Birdie, Remote, Jun 2023 - Present
+    - Contributed to various backend services, including data ingestion, core system, ChatGPT-powered prediction services, search service and client-facing services.
+    - Developed and maintained data ingestion pipelines, including upgrading legacy systems to new designs, improving ingestion logic, and API development.
+    - Improved Elasticsearch performance and management for better search capabilities.
+    - Worked on the client middleware service and browser extension APIs.
+    - Collaborated in migrating the legacy Ruby client backend to AWS serverless.
+    - Apart from the above, contributed to multiple improvements across the system like identifying and optimizing slow SQL queries, improving the design of the pipelines, tweaking pipeline configurations for enhanced performance, etc.
+    - Tech stack: Python, AWS, Serverless, Terraform, Elasticsearch, Logstash, Kibana, Kafka Connect, ChatGPT, PostgreSQL, ScyllaDB, Github, Jira.
+---
+Senior Software Engineer at Pharmeasy, Bangalore, Jun 2019 - Jan 2023, 3.8 years.
+    - Developed and maintained a central search service for both internal and external clients of the organization.
+    - Designed and developed various business features to improve relevance and search metrics like Add-To-Cart, Click-Through Rate, Null searches etc.
+    - Enhanced the lexical search algorithm to solve most of the common search problems.
+    - Contributed to building a semantic search system to introduce an understanding of a user's query in the search journey.
+    - Built a typeahead autocomplete system to refine the search relevance.
+    - In addition to the business deliverables, identified and implemented multiple tech initiatives to improve the underlying system.
+    - Collaborated with multiple teams across the organization for business, tech and analytics requirements.
+    - Maintained clear communication in and across teams. Created and maintained documentations for discussions, requirements, design docs etc.
+    - Participated in recruitment and training.
+    - Tech stack: Elasticsearch, Java, Python, Elixir, MySQL, MongoDB, Redis, Spring boot, Kafka, Kubernetes, AWS, Jenkins, Jira.
+---
+Full stack Software developer at Handytrain, Panjim, Jan 2018 - May 2019, 1.5 years.
+    - Project 1: Handytrain is a mobile-first training and engagement platform for corporate employees
+        - Designed the employee feedback system for the platform which included rating, polls and surveys
+        - Developed the required front-end and the back-end services for this system with sole ownership
+        - Collaborated effectively with the User Experience and Design team to deliver the envisioned design
+    - Project 2: Tempogo, provides IoT and SaaS solutions for the transportation industry
+        - Redesigned and migrated the existing Angular 1.x project to Angular 6+. The resulting app was faster, stable, reliable and much more maintainable.
+        - Helped design a new system to improve route management both in terms of design and performance.
+    - Tech stack: Python, Django, Javascript, Node.js, TypeScript, Angular, PostgreSQL, MongoDB, Redis, Git, Jira
+---
+Senior Software Developer at Botifai Technology, Bangalore, Jun 2015 - Dec 2017, 2.7 years.
+    - Project 1:
+        - Led the development of an automated B2B solution that provided internal and external business communication using WhatsApp.
+        - Designed and developed microservices to automate various features of WhatsApp.
+        - Designed and developed an as-a-service type of system for on-boarding new clients, which created the user and automatically spawned required servers for the user as well.
+        - Maintained the release branch.
+        - Participated in recruitment and training of new joiners.
+        - Tech stack: Javascript, Node.js, CouchDB, MongoDB, Selenium, DigitalOcean, Git
+    - Project 2:
+        - Led the development of a social platform to share content completely anonymously (No phone number or email).
+        - Ported the complete Android app to web. Some of the main components included: Poster creator, Audio recorder with pitch shifting and modulation mechanism to facilitate anonymity.
+        - Tech stack: Javascript, HTML/CSS, Node.js, Angular.js, CouchDB, MongoDB, Heroku, Javascript Web APIs, Selenium, Git
+===
+Education
+---
+1. BE in Computer science and engineering from Visveswaraya Technological University
+2. MS in Computer Science from the University of Hertfordshire, UK
+===

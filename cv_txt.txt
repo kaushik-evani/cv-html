@@ -18,12 +18,12 @@ Others: Problem-solving, System design, Debugging, Communication, Documentation,
 Work Experience
 ---
 Senior Software Engineer at Little Birdie, Remote, Jun 2023 - Present
-    - Contributed to various backend services, including data ingestion, core system, ChatGPT-powered prediction services, search service and client-facing services.
+    - Contributed to multiple backend services across the organization, including data ingestion, core systems, prediction service, search, and client-facing services.
     - Developed and maintained data ingestion pipelines, including upgrading legacy systems to new designs, improving ingestion logic, and API development.
     - Improved Elasticsearch performance and management for better search capabilities.
     - Worked on the client middleware service and browser extension APIs.
     - Collaborated in migrating the legacy Ruby client backend to AWS serverless.
-    - Apart from the above, contributed to multiple improvements across the system like identifying and optimizing slow SQL queries, improving the design of the pipelines, tweaking pipeline configurations for enhanced performance, etc.
+    - Contributed to system improvements, including optimizing SQL queries and enhancing pipeline design and configurations.
     - Tech stack: Python, AWS, Serverless, Terraform, Elasticsearch, Logstash, Kibana, Kafka Connect, ChatGPT, PostgreSQL, ScyllaDB, Github, Jira.
 ---
 Senior Software Engineer at Pharmeasy, Bangalore, Jun 2019 - Jan 2023, 3.8 years.

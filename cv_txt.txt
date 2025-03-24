@@ -12,12 +12,12 @@ Strong background in system design, problem-solving, research skills, documentat
 ===
 Skills
 ---
-Tech: Python, Java, JavaScript, Elixir, HTML/CSS, Elasticsearch, Logstash, Kibana, MySQL, MongoDB, Redis, ScyllaDB, Spring Boot, Node.js, React, Kafka, Kafka Connect, Docker, Kubernetes, AWS, Serverless, Terraform, Git, Linux, Jira
+Tech: Python, Java, JavaScript, Elixir, Elasticsearch, Logstash, Kibana, PostgreSQL, MySQL, MongoDB, Redis, Spring Boot, Node.js, React, Kafka, Docker, Kubernetes, AWS, Serverless, Terraform, Git, Linux, Jira
 Others: Problem-solving, System design, Debugging, Communication, Documentation, Tech expertise, Code Quality, Research
 ===
 Work Experience
 ---
-Senior Software Engineer at Little Birdie, Remote, Jun 2023 - Present
+Senior Software Engineer at Little Birdie, Remote, Jun 2023 - Present, 1 year
     - Contributed to multiple backend services across the organization, including data ingestion, core systems, prediction service, search, and client-facing services.
     - Developed and maintained data ingestion pipelines, including upgrading legacy systems to new designs, improving ingestion logic, and API development.
     - Improved Elasticsearch performance and management for better search capabilities.
@@ -29,9 +29,7 @@ Senior Software Engineer at Little Birdie, Remote, Jun 2023 - Present
 Senior Software Engineer at Pharmeasy, Bangalore, Jun 2019 - Jan 2023, 3.8 years.
     - Developed and maintained a central search service for both internal and external clients of the organization.
     - Designed and developed various business features to improve relevance and search metrics like Add-To-Cart, Click-Through Rate, Null searches etc.
-    - Enhanced the lexical search algorithm to solve most of the common search problems.
-    - Contributed to building a semantic search system to introduce an understanding of a user's query in the search journey.
-    - Built a typeahead autocomplete system to refine the search relevance.
+    - Enhanced the search experience by improving the lexical search algorithm, developing a semantic search system for query understanding, and building a typeahead autocomplete feature
     - In addition to the business deliverables, identified and implemented multiple tech initiatives to improve the underlying system.
     - Collaborated with multiple teams across the organization for business, tech and analytics requirements.
     - Maintained clear communication in and across teams. Created and maintained documentations for discussions, requirements, design docs etc.
@@ -48,12 +46,11 @@ Full stack Software developer at Handytrain, Panjim, Jan 2018 - May 2019, 1.5 ye
         - Helped design a new system to improve route management both in terms of design and performance.
     - Tech stack: Python, Django, Javascript, Node.js, TypeScript, Angular, PostgreSQL, MongoDB, Redis, Git, Jira
 ---
-Senior Software Developer at Botifai Technology, Bangalore, Jun 2015 - Dec 2017, 2.7 years.
+Senior Software Developer at Botifai Technologies, Bangalore, Jun 2015 - Dec 2017, 2.7 years.
     - Project 1:
         - Led the development of an automated B2B solution that provided internal and external business communication using WhatsApp.
         - Designed and developed microservices to automate various features of WhatsApp.
         - Designed and developed an as-a-service type of system for on-boarding new clients, which created the user and automatically spawned required servers for the user as well.
-        - Maintained the release branch.
         - Participated in recruitment and training of new joiners.
         - Tech stack: Javascript, Node.js, CouchDB, MongoDB, Selenium, DigitalOcean, Git
     - Project 2:

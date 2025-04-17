@@ -5,7 +5,11 @@ Phone: +91 9008485595
 ===
 Summary
 ---
-Senior Software Engineer with over 9 years of experience building scalable software systems across backend and full-stack domains. Proficient in designing and maintaining high-performance services using Python, Java, JavaScript, and modern frameworks. Experienced in data ingestion pipelines, search systems, ML model integration, and AWS-based serverless microservices. Worked on production-grade AI integrations including OpenAI and Gemini. Adept at system design, debugging, and cross-functional collaboration. Known for clear documentation and delivering customer-facing features at scale.
+- Senior Software Engineer with over 9 years of experience building scalable software systems across backend and full-stack domains. 
+- Proficient in designing and maintaining high-performance services using Python, Java, JavaScript, and modern frameworks. Experienced in data ingestion pipelines, search systems, ML model integration, AWS and Serverless Cloud Developement and API Development.
+- Worked on production-grade AI integrations including OpenAI and Gemini. 
+- Adept at System Design, Problem-solving, Troubleshooting, and cross-functional collaboration.
+- Known for clear documentation and delivering customer-facing features at scale.
 ===
 Skills
 ---
@@ -13,7 +17,7 @@ Languages & Frameworks: Python, Java, JavaScript, Elixir, Spring Boot, Node.js, 
 Databases: PostgreSQL, MongoDB, MySQL, Redis, ScyllaDB
 Search & Messaging: Elasticsearch, Logstash, Kafka
 DevOps & Cloud: Docker, Kubernetes, AWS, Serverless, Terraform
-Others: Problem-solving, System design, Troubleshooting, Issue Resolution, Root Cause Analysis, Clean Code Practivces, Code Reviews, Software Best Practices, Technical Writing, Design Documentation, Communication, Technology Evaluation, Prototyping
+Others: Jira, Problem-solving, System design, Troubleshooting, Issue Resolution, Root Cause Analysis, Clean Code Practivces, Code Reviews, Software Best Practices, Technical Writing, Design Documentation, Communication, Technology Evaluation, Prototyping
 ===
 Work Experience
 ---
@@ -30,7 +34,6 @@ Senior Software Engineer at Pharmeasy, Bangalore, Jun 2019 - Jan 2023, 3.8 years
     - Built and maintained central search services for internal and customer-facing applications.
     - Designed and developed features to boost Add-To-Cart, Click-Through Rate, Null Search metrics.
     - Developed lexical search, semantic search and autocomplete features to enhance query understanding and search relevance.
-    - Championed multiple internal tech initiatives for scalability and maintainability.
     - Drove multiple internal tech initiatives to enhance system scalability and maintainability.
     - Authored detailed design documents and collaborated with multiple cross-functional teams.
     - Tech stack: Elasticsearch, Java, Python, Elixir, MySQL, MongoDB, Redis, Spring boot, Kafka, Kubernetes, AWS, Jenkins.
